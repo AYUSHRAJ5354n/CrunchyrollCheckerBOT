@@ -35,7 +35,7 @@ user_cancel_flags = {}
 app = Client("crunchyroll_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
 # Admin ID
-ADMIN_ID = "" # Add Your Telegram User ID Here
+ADMIN_ID = "1685470205" # Add Your Telegram User ID Here
 
 def parse_proxy(proxy):
     """Parse proxy to handle both ip:port and ip:port:username:password formats."""
